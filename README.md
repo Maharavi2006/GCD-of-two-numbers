@@ -29,9 +29,7 @@ def gcd():
     print("GCD of two numbers is:",a)
 ```
 ## Output:
-![Screenshot 2024-03-23 085006](https://github.com/Maharavi2006/GCD-of-two-numbers/assets/154535981/60484d91-bca7-4fca-bfe1-28231354b567)
-
-
+![image](https://github.com/Maharavi2006/GCD-of-two-numbers/assets/154535981/912dbb45-1d5a-45cf-a9ca-65b03b51c5d0)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
